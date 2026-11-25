@@ -1,20 +1,5 @@
 <h1 align="center">RefocusCraft: Unified Video Refocusing<br>via CoC-Guided State Transitions</h1>
 
-<p align="center">
-  Jialiang Feng<sup>1</sup>,
-  Shengxin Liu<sup>1</sup>,
-  Yong Du<sup>2</sup>,
-  Shengfeng He<sup>3</sup>,
-  Yangyang Xu<sup>1</sup>,
-  Jun Yu<sup>1</sup>
-</p>
-
-<p align="center">
-  <sup>1</sup> Harbin Institute of Technology<br>
-  <sup>2</sup> Ocean University of China<br>
-  <sup>3</sup> Singapore Management University
-</p>
-
 <p align="center"><strong>CVPR 2027 Submission</strong></p>
 
 <p align="center">
